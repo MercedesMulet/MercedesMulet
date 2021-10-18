@@ -2,8 +2,9 @@
 <h3>A passionate UX UI Designer and Frontend Developer from Argentina based in México</h3>
 
 - 🔭 I’m currently working on **an e-commerce Website with Vanilla JS**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & React JS**
 - 📫 How to reach me **mercedes.mulet@gmail.com**
+- 🥁 See my portfolio on **https://www.behance.net/MercedesMulet**
 
 <h3>Connect with me:</h3>
 <p>
